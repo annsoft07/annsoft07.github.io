@@ -1,7 +1,15 @@
+#applovin update on 21-04-23
 applovin.com, 41382902af58bf12c0aa06ab73f4bf34, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
+
 facebook.com, 877425045985026, RESELLER, c3e20eee3f780d68
 
-#unityAds 21-04-23
+#unityAds added on 21-04-23
 kidoz.net, 19692013, RESELLER
 meitu.com, 282, RESELLER
 meitu.com, 699, RESELLER
